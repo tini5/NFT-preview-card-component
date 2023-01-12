@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #0d192c;
+}
+.main{
+    width: 350px;
+    height: 596px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: #15263F;
+}
+.img1{
+    width: 302px;
+    height: 302px;
+    border-radius: 8px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+.container{
+    margin-left: 24px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.h{
+    width: 302px;
+    height: 28px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'outfit', sans-serif;
+    line-height: 27.72px;
+    position: absolute;
+}
+p{
+    width: 302px;
+    height: 52px;
+    color: #8BACD9;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+    font-family: 'outfit', sans-serif;
+    position: absolute;
+    margin-top: 50px;
+}
+.img2{
+    width: 11px;
+    height: 18px;
+    position: absolute;
+    margin-top: 115px;
+}
+.h1{
+    width: 75px;
+    height: 20px;
+    margin-left: 17.48px;
+    line-height: 20.16px;
+    position: absolute;
+    margin-top: 115px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'outfit', sans-serif;
+    color: #00FFF8;
+}
+.img3{
+    margin-top: 116px;
+    margin-left: 204px;
+}
+.p1{
+    width: 73px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    font-family: 'outfit', sans-serif;
+    margin-top: 115px;
+    margin-left: 227px;
+}
+.row{
+    width: 302px;
+    height: 1px;
+    margin-top: 30px;
+    background-color: #2e405a;
+}
+.img4{
+    width: 33px;
+    height: 33px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.p2{
+    width: 81px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    font-family: 'outfit', sans-serif;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 50px;
+}
+.h2{
+    width: 96px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    font-family: 'outfit', sans-serif;
+    color: #ffffff;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 140px; 
+}
+.img1h{
+    width: 302px;
+    height: 302px;
+    border-radius: 8px;
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 24px;
+    background-color: #00FFF8;
+    opacity: 0;
+}
+.img1h:hover{
+    opacity: 0.5;
+}
+.h:hover{
+    color: #00FFF8;
+    cursor: default;
+}
+.h2:hover{
+    color: #00FFF8;
+    cursor: default;
+}
